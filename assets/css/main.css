@@ -21,7 +21,7 @@ body {
     background-attachment: fixed;
     background-position: 50% 50%;
     background-color:  #FFC0CB;
-    background-image: url('https://github.com/arisong-zf/arisong-zf.github.io/blob/main/assets/img/background.png');
+    background-image: url('https://raw.githubusercontent.com/arisong-zf/arisong-zf.github.io/main/assets/img/background.png');
 }
 #rin-bg:after {
     top: 0;
