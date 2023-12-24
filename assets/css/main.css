@@ -20,8 +20,8 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 50% 50%;
-    background-color: #818181;
-    background-image: url('https://cdn.jsdelivr.net/gh/YinBuLiao/blog/assets/img/background.png');
+    background-color:  #FFC0CB;
+    background-image: url('https://github.com/arisong-zf/arisong-zf.github.io/blob/main/assets/img/background.png');
 }
 #rin-bg:after {
     top: 0;
